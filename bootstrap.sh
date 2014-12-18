@@ -14,6 +14,7 @@ apt-get -y install ruby2.1
 apt-get -y install ruby2.1-dev
 
 #install github pages requirements (jekyll)
-gem install github-pages
+sudo gem update --system
+sudo gem install github-pages
 
 apt-get -y install nodejs
