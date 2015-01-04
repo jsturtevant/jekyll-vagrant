@@ -1,7 +1,7 @@
 jekyll-vagrant
 ==============
 
-Environment for hosting local jekyll projects
+Environment for developing jekyll projects locally
 
 ## Setup
 1. Make sure Vagrant and your favorite vitual machine are installed.
@@ -9,7 +9,7 @@ Environment for hosting local jekyll projects
 3. Open command prompt to location of the Vagrantfile and run ```vagrant up```
 4. Jekyll and all it's dependencies are installed!
 
-## Exisitng Jekyll Projects
+## Existing Jekyll Projects
 1. Copy the projects folder to the folder that contains the vagrantfile.  
 2. Open a command prompt to location of the Vagrantfile and run ```vagrant ssh```
 3. Once on the VM prompt ```cd /vagrant/<YourProjectFolder>```
