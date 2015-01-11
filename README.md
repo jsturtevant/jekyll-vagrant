@@ -1,10 +1,10 @@
 jekyll-vagrant
 ==============
 
-Environment for developing jekyll projects locally
+Environment for developing jekyll projects locally.
 
 ## Setup
-1. Make sure Vagrant and your favorite vitual machine are installed.
+1. Make sure Vagrant and your favorite virtual machine are installed.
 2. Clone this repository
 3. Open command prompt to location of the Vagrantfile and run ```vagrant up```
 4. Jekyll and all it's dependencies are installed!
