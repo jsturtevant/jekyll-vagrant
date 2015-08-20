@@ -1,7 +1,7 @@
 jekyll-vagrant
 ==============
 
-Environment for developing jekyll projects locally.
+Environment for developing jekyll projects locally.  Blog post at http://www.jamessturtevant.com/posts/running-jekyll-in-windows/
 
 ## Setup
 1. Make sure Vagrant and your favorite virtual machine are installed.
