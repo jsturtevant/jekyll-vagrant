@@ -1,3 +1,5 @@
+> Note: I have stopped maintaince on this project.  I currenlty use Docker to develop jekyll projects locally.  You can find more about running jekyll with Docker at http://www.jamessturtevant.com/posts/Running-Jekyll-in-Windows-using-Docker/
+
 jekyll-vagrant
 ==============
 
